@@ -9,6 +9,7 @@
 <br>
 <div align="center">
     <a href="https://github.com/Top-Lead-Blockchain">
+        <img height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXM1eXo5Y2Q0MjZhZDNuNW1xcHE0eWllZWpicXhkOWZnZ2huOWNyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IXnygGeB6LPPi/giphy.gif"/>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Top-Lead-Blockchain&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
     </a>
 </div>
